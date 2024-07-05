@@ -9,9 +9,6 @@ function Navbar() {
           <div className="text-2xl font-bold uppercase">Farmacia Farmaco</div>
 
           <div className="flex gap-4">
-            <Link to="/produtos" className="hover:underline">
-              Produtos
-            </Link>
             <Link to="/categorias" className="hover:underline">
               Categorias
             </Link>
